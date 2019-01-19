@@ -9,3 +9,4 @@ lint:
 
 test:
 			PYTHONPATH=. py.test  --verbose -s
+#komentarz
